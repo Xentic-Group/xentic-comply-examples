@@ -1,0 +1,12 @@
+{
+  "name": "xentic-comply-api-examples",
+  "version": "1.0.0",
+  "description": "Javascript examples for Xentic Comply API",
+  "main": "scan_with_axios.js",
+  "scripts": {
+    "start": "node scan_with_axios.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
